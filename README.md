@@ -1,5 +1,5 @@
-#Portfolio Website
-📌 Overview
+
+#📌 Overview
 
 This is my personal portfolio website built to showcase my skills, projects, certifications, and contact information. It serves as an online resume where visitors can learn about me and explore the projects I have developed.
 
@@ -15,10 +15,11 @@ This is my personal portfolio website built to showcase my skills, projects, cer
 - Dark mode
 - Download Resume feature
 
-##🛠️ Technologies Used
- - HTML5
- - CSS3
- - JavaScript
+## 🛠️ Technologies Used
+
+- **HTML5** – Used to create the structure of the website.
+- **CSS3** – Used for styling, layout, and responsive design.
+- **JavaScript** – Used to add interactivity and dynamic functionality.
 
 ### 📂 Project Structure
 Portfolio/
